@@ -6,8 +6,10 @@
 
 #
 
-Me chamo Paulo Queiroz, tenho 24 anos e moro em Juiz de Fora - MG. Atualmente curso Análise e Desenvolvimento de Sistemas na FIAP. Sou apaixonado por tecnologia, curioso sobre Hardware e compartilho meu conhecimento através do
-meu canal no YouTube "[PauloDev](https://www.youtube.com/@paulopontodev)".
+Me chamo David Espinosa, atualmente curso Análise e Desenvolvimento de Sistemas. Desenvolvedor de Software em formação, com foco e direcionamento para Java e Python, além de conhecimentos em MySQL e bancos de dados relacionais. Possuo conhecimentos em lógica de programação, Programação Orientada a Objetos, desenvolvimento de APIs, modelagem de dados,  fundamentos de Engenharia de Software e arquitetura de software. Busco constantemente aprimorar minhas habilidades e aplicar boas práticas de desenvolvimento na construção de soluções eficientes, organizadas, seguras e escaláveis.
+meu linkedin "[https//www.linkedin.com/in/david-espinosadle](https://www.linkedin.com/in/david-espinosadle/)
+
+".
  
 #
 
