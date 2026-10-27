@@ -12,7 +12,7 @@ Desenvolvedor de Software em formação, com foco e direcionamento para Java e P
  
 #
 
-<img align="right" alt="" height="190px" src="./src/edgerunners.gif">
+<img align="right" alt="" height="190px" src="./src/cs.gif">
 
 <h3 align="left">Connect with me!</h3>
 
