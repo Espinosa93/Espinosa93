@@ -6,7 +6,7 @@
 
 #
 
-Me chamo David Espinosa, atualmente curso Análise e Desenvolvimento de Sistemas. Desenvolvedor de Software em formação, com foco e direcionamento para Java e Python, além de conhecimentos em MySQL e bancos de dados relacionais. Possuo conhecimentos em lógica de programação, Programação Orientada a Objetos, desenvolvimento de APIs, modelagem de dados,  fundamentos de Engenharia de Software e arquitetura de software. Busco constantemente aprimorar minhas habilidades e aplicar boas práticas de desenvolvimento na construção de soluções eficientes, organizadas, seguras e escaláveis.
+Desenvolvedor de Software em formação, com foco e direcionamento para Java e Python, além de conhecimentos em MySQL e bancos de dados relacionais. Possuo conhecimentos em lógica de programação, Programação Orientada a Objetos, desenvolvimento de APIs, modelagem de dados,  fundamentos de Engenharia de Software e arquitetura de software. Busco constantemente aprimorar minhas habilidades e aplicar boas práticas de desenvolvimento na construção de soluções eficientes, organizadas, seguras e escaláveis.
 meu linkedin "[https//www.linkedin.com/in/david-espinosadle](https://www.linkedin.com/in/david-espinosadle/)
 
 ".
