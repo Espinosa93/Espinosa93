@@ -126,7 +126,7 @@ Desenvolvedor de Software em formação, com foco e direcionamento para Java e P
       align="left" 
       alt="GitHub Stats" 
       height="200" 
-      src="https://github-readme-stats-gules-two-47.vercel.app/api/top-langs/?username=Espinos93&layout=compact&custom_title=Stack&langs_count=8&bg_color=000000&title_color=ffffff&text_color=ffffff&icon_color=ffffff&border_color=ffffff&ring_color=ffffff" 
+      src="https://github-readme-stats-gules-two-47.vercel.app/api/top-langs/?username=Espinosa93&layout=compact&custom_title=Stack&langs_count=8&bg_color=000000&title_color=ffffff&text_color=ffffff&icon_color=ffffff&border_color=ffffff&ring_color=ffffff" 
   />
 
 </p>
