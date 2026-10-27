@@ -24,19 +24,21 @@ Desenvolvedor de Software em formação, com foco e direcionamento para Java e P
 
 <img 
     align="left" 
-    alt="HTML"
-    title="HTML" 
+    alt="Java"
+    title="Java" 
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />
+          
 />
 <img 
     align="left" 
-    alt="CSS" 
-    title="CSS"
+    alt="Python" 
+    title="Python"
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
+          
 />
 <img 
     align="left" 
@@ -67,21 +69,54 @@ Desenvolvedor de Software em formação, com foco e direcionamento para Java e P
 
 <img 
     align="left" 
-    alt="Python" 
-    title="Python"
+    alt="Html" 
+    title="Html"
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
+          
 />
 
 <img
     align="left"
-    alt="Vercel"
-    title="Vercel"
+    alt="Css"
+    title="Css"
     width="30px"
     style="padding-right: 10px;"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vercel/vercel-original.svg"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
+          
 />
+
+  <img
+    align="left"
+    alt="Mysql"
+    title="Mysql"
+    width="30px"
+    style="padding-right: 10px;"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" />
+          
+/>
+
+  <img
+    align="left"
+    alt="MongoDB"
+    title="MongoDB"
+    width="30px"
+    style="padding-right: 10px;"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" />
+    
+/>
+
+   <img
+    align="left"
+    alt="Uml"
+    title="Uml"
+    width="30px"
+    style="padding-right: 10px;"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/unifiedmodelinglanguage/unifiedmodelinglanguage-original.svg" />
+              
+/>
+
 <br/>
 <br/>
 
