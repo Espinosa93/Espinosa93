@@ -30,7 +30,6 @@ Desenvolvedor de Software em formação, com foco e direcionamento para Java e P
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />
           
-/>
 <img 
     align="left" 
     alt="Python" 
@@ -39,15 +38,13 @@ Desenvolvedor de Software em formação, com foco e direcionamento para Java e P
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
           
-/>
 <img 
     align="left" 
     alt="JavaScript" 
     title="JavaScript"
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
-/>
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
 
 <img
     align="left"
@@ -55,8 +52,7 @@ Desenvolvedor de Software em formação, com foco e direcionamento para Java e P
     title="GitHub"
     width="30px"
     style="padding-right: 10px;"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg"
-/>
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" />
 
 <img 
     align="left" 
@@ -64,8 +60,8 @@ Desenvolvedor de Software em formação, com foco e direcionamento para Java e P
     title="Git"
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
-/>
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
+
 
 <img 
     align="left" 
@@ -75,8 +71,6 @@ Desenvolvedor de Software em formação, com foco e direcionamento para Java e P
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
           
-/>
-
 <img
     align="left"
     alt="Css"
@@ -85,7 +79,6 @@ Desenvolvedor de Software em formação, com foco e direcionamento para Java e P
     style="padding-right: 10px;"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
           
-/>
 
   <img
     align="left"
@@ -95,7 +88,6 @@ Desenvolvedor de Software em formação, com foco e direcionamento para Java e P
     style="padding-right: 10px;"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" />
           
-/>
 
   <img
     align="left"
@@ -105,7 +97,6 @@ Desenvolvedor de Software em formação, com foco e direcionamento para Java e P
     style="padding-right: 10px;"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" />
     
-/>
 
    <img
     align="left"
@@ -115,7 +106,7 @@ Desenvolvedor de Software em formação, com foco e direcionamento para Java e P
     style="padding-right: 10px;"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/unifiedmodelinglanguage/unifiedmodelinglanguage-original.svg" />
               
-/>
+
 
 <br/>
 <br/>
@@ -128,7 +119,7 @@ Desenvolvedor de Software em formação, com foco e direcionamento para Java e P
     alt="GitHub Stats" 
     height="200" 
     style="padding-right: 10px;" 
-    src="https://github-readme-stats-two-omega-43.vercel.app/api?username=paulopontodev&show_icons=true&locale=pt-br&commits_year=2026&hide=contribs&cache_seconds=21600&bg_color=000000&title_color=ffffff&text_color=ffffff&icon_color=ffffff&border_color=ffffff&ring_color=ffffff&custom_title=My%20GitHub%20Statistics"
+    src="https://github-readme-stats-two-omega-43.vercel.app/api?username=Espinosa93&show_icons=true&locale=pt-br&commits_year=2026&hide=contribs&cache_seconds=21600&bg_color=000000&title_color=ffffff&text_color=ffffff&icon_color=ffffff&border_color=ffffff&ring_color=ffffff&custom_title=My%20GitHub%20Statistics"
   />
 
 <img 
